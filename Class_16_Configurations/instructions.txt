@@ -1,6 +1,7 @@
-After 15th Class, you have to create the requirements.txt file in the base folder.
+After 15th Class, you have to create a folder named "Data Analytics" in the base folder,
+and a file named "requirements.txt" in the "Data Analytics" folder.
 After creating the file, you need to run the following command:
-    conda activate base
-    pip install -r "Data Analytics/requirements.txt"
+    $ conda activate base
+    $ pip install -r "Data Analytics/requirements.txt"
 This will install all the required python libraries
 which will be required to learn data analytics.
