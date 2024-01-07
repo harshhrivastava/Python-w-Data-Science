@@ -1,0 +1,7 @@
+We will be starting now with computer vision.
+For that, we will require to install some libraries for the same.
+You have to create a folder named "Computer Vision" in the base folder,
+and a file named "requirements.txt" in the "Computer Vision" folder.
+After creating the file, you need to run the following command:
+    $ conda activate base
+    $ pip install -r "Computer Vision/requirements.txt"

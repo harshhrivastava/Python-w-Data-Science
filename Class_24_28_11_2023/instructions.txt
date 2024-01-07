@@ -1,0 +1,7 @@
+Now you need to create a new folder separately.
+This is done because you have to initialize git again.
+We will be using a new library today, StreamLit.
+This library is similar to matplotlib and seaborn as it is used for visualization.
+We will be creating a web app using this which will be displaying charts.
+The charts will use a dataset from kaggle and display it.
+The link for the github repo is : https://github.com/harshhrivastava/streamlit-app.git

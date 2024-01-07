@@ -1,0 +1,6 @@
+We will be starting now with data mining and database.
+You have to create a folder named "Data Mining and Database" in the base folder,
+and a file named "requirements.txt" in the "Data Mining and Database" folder.
+After creating the file, you need to run the following command:
+    $ conda activate base
+    $ pip install -r "Data Mining and Database/requirements.txt"
